@@ -1,4 +1,4 @@
-//ajuda a manter boas praticas e erros seleciosos
+//ajuda a manter boas praticas e erros seleciososs
 "use strict"
 //configuracao do dayJS
 import "./libs/dayjs.js"

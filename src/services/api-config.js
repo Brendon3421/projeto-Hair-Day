@@ -1,3 +1,3 @@
 export const apiConfig = {
-    baseURL: "http://localhost:3333/"
+    baseURL: "https://projeto-hair-day.onrender.com/"
 }
